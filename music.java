@@ -1,5 +1,6 @@
 package application;
-
+//Made By: Sushim Mishra, Brian Lee, and Miguel Velasco
+//Texas Tech University Spring 2023
 /**Interface for the Music object. Methods will be implemented in the MusicObject class.*/
 interface Music {
   public void setName(String n);

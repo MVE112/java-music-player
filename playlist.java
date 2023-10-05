@@ -1,5 +1,6 @@
 package application;
-
+//Made by: Sushim Mishra, Brian Lee, and Miguel Velasco
+//Texas Tech University 2023
 /**Playlist class that extends the player class and allows for managing multiple music object files*/
 class Playlist extends Player{
 	

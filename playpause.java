@@ -1,5 +1,6 @@
 package application;
-
+//Made by: Sushim Mishra, Brian Lee, and Miguel Velasco
+//Texas Tech University 2023
 import java.io.File;
 import java.util.Scanner;
 

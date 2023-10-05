@@ -1,5 +1,5 @@
 README.txt
-
+This Code was made by Sushim Mishra, Brian Lee, and Miguel Velasco
 To run the Music Player, make sure the Java package you are using has "music.java", "player.java", "playlist.java", and "playpause.java" in it. 
 
 "music.java" has the Music and MusicObject classes. "player.java" has the Player class. "playlist.java" has the Playlist class. "playpause.java" has the JavaFX implementation and public static void main().

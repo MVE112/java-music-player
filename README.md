@@ -1,4 +1,4 @@
-README.txt
+# README
 This Code was made by Sushim Mishra, Brian Lee, and Miguel Velasco of Texas Tech University for Final rpoject in Object Oriented Programing CS 2365
 To run the Music Player, make sure the Java package you are using has "music.java", "player.java", "playlist.java", and "playpause.java" in it. 
 
